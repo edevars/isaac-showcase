@@ -1,0 +1,9 @@
+.render {
+    -ms-touch-action: none;
+}
+
+.center-elements {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
